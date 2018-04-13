@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <packages>
+	<package id="7zip" />
+	<package id="cccp" />
+	<package id="classic-shell" />
+	<package id="clink" />
+	<package id="conemu" />
+	<package id="cygwin" />
+	<package id="cyg-get" />
+	<package id="databasenet" />	
+	<package id="dotnet4.6.1" />
+	<package id="dropbox" />
+	<package id="everything" />
+	<package id="firefox" />
+	<package id="freecommander-xe" />	
+	<package id="flashplayerpluigin">
+	<package id="foxitreader" />
+	<package id="googlechrome" />
+	<package id="git" />	
+	<package id="sharex" />	
+	<package id="imgburn" />
+	<package id="irfanview">
+	<package id="jre8" />
+	<package id="libreoffice">
+	<package id="paint.net" />
+	<package id="putty" />
+	<package id="rainmeter" />
+	<package id="RSAT" />
+	<package id="sourcetree" />
+	<package id="sysinternals" />
+	<package id="spacesniffer" />
+	<package id="thunderbird" />
+	<package id="virtualbox" />
+	<package id="vagrant" />
+	<package id="virtualclonedrive" />
+	<package id="yumi" />
+	<package id="sublimetext3.packagecontrol" />
+  </packages>
+</xml>
