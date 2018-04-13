@@ -34,7 +34,6 @@
 	<package id="vagrant" />
 	<package id="virtualclonedrive" />
 	<package id="yumi" />
-	<package id="office2016" />
 	<package id="sublimetext3.packagecontrol" />
   </packages>
 </xml>
